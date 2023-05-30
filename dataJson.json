@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Triple H",
+    "faction": "RAW",
+    "stats": 109,
+    "photo": "https://www.vhv.rs/dpng/d/595-5959145_bodybuilding-wwe-triple-h-hd-png-download.png",
+    "weight": 110,
+    "height": 190
+  },
+  {
+    "name": "Kane",
+    "faction": "Smack Down",
+    "stats": 90,
+    "photo": "https://www.pngarts.com/files/2/Kane-PNG-Background-Image.png",
+    "weight": 130,
+    "height": 200
+  },
+  {
+    "name": "Shawn Micheals",
+    "faction": "RAW",
+    "stats": 98,
+    "photo": "https://freepngimg.com/save/23080-shawn-michaels-transparent-background/456x617",
+    "weight": 90,
+    "height": 184
+  }
+]
